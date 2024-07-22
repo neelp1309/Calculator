@@ -7,6 +7,6 @@ This calculator was made in order to test and advance my JavaScript skills.
 
 ## Technologies ##
 This project was made with:
-* Vanilla JavaScript
-* SASS
+* JavaScript
+* CSS
 * HTML
