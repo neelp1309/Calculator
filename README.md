@@ -1,5 +1,6 @@
 # Vanilla JavaScript calculator #
-![Project preview](https://imgur.com/a/nlQzSBf.jpg)
+![Uploading Calculator.png…]()
+
 
 ---
 ## Project's aim ##
