@@ -1,6 +1,5 @@
 # Vanilla JavaScript calculator #
-![Uploading Calculator.png…]()
-
+![Calculator](https://github.com/user-attachments/assets/50a29615-e408-4814-9d98-494b1aae74e3)
 
 ---
 ## Project's aim ##
